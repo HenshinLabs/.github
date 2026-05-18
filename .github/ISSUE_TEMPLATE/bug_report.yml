@@ -1,0 +1,75 @@
+name: Bug Report
+description: Report a bug or unexpected behavior
+title: "[Bug]: "
+labels: ["bug", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for reporting a bug. Please fill out the sections below so we can reproduce and fix the issue.
+
+  - type: input
+    id: project
+    attributes:
+      label: Project
+      description: Which repository does this affect?
+      placeholder: e.g., solace-gemma4good
+    validations:
+      required: true
+
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: |
+        Provide relevant environment details:
+        - OS and version
+        - Runtime/SDK version
+        - Device (if mobile)
+      placeholder: |
+        OS: Android 14
+        Device: Pixel 8
+        Runtime: llama.cpp v1.2.3
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to Reproduce
+      description: Minimal, exact steps to reproduce the behavior.
+      placeholder: |
+        1. Open the app
+        2. Tap on '...'
+        3. Observe crash
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected Behavior
+      description: What did you expect to happen?
+    validations:
+      required: true
+
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual Behavior
+      description: What actually happened?
+    validations:
+      required: true
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs / Screenshots
+      description: Paste any relevant error output or screenshots.
+      render: shell
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional Context
+      description: Any other relevant information (workarounds attempted, related issues, etc.)
