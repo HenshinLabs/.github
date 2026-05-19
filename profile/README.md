@@ -78,9 +78,3 @@ We welcome contributions from researchers, engineers, and builders. Here's how t
 
 - **Email**: ahelipoddar2003@gmail.com
 - **GitHub**: [github.com/HenshinLabs](https://github.com/HenshinLabs)
-
----
-
-<p align="center">
-  <em>Building the future, one hackathon at a time.</em>
-</p>
