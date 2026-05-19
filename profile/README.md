@@ -1,11 +1,9 @@
 <p align="center">
-  <img src="https://github.com/HenshinLabs/.github/blob/main/profile/banner.png?raw=true" alt="HenshinLabs Banner" width="100%">
+  <img src="https://github.com/HenshinLabs/.github/blob/main/profile/logo/henshin~2.png?raw=true" alt="HenshinLabs Banner" width="100%"> 
 </p>
 
-<h1 align="center">HenshinLabs</h1>
-
 <p align="center">
-  <strong>For the love of Open Source</strong>
+  <strong>For the love of OpenSource :)</strong>
 </p>
 
 <p align="center">
@@ -18,23 +16,14 @@
 
 ## About Us
 
-**HenshinLabs** is a hackathon and open-source collective founded by [Shuvam Banerji Seal](https://github.com/Shuvam-Banerji-Seal) and [Aheli Poddar](https://github.com/XAheli). We build tools, experiments, and research prototypes at the intersection of **AI/ML**, **mobile computing**, and **human-centered design**.
+**HenshinLabs** is a research and open-source collective founded by [Aheli Poddar](https://github.com/XAheli) and [Shuvam Banerji Seal](https://github.com/Shuvam-Banerji-Seal). We build tools, experiments, and research prototypes at the intersection of **AI/ML**, **mobile computing**, and **human-centered design**.
 
 We believe in:
 
 - **Open science** — transparent methods, reproducible results, shared knowledge
-- **Hackathon-driven innovation** — rapid prototyping under constraints sharpens engineering judgment
+- **Hackathon driven innovation** — rapid prototyping under constraints sharpens engineering judgment
 - **On-device intelligence** — privacy-preserving AI that runs where the user is
 - **Compassionate technology** — software that serves human well-being first
-
-## What We Build
-
-| Domain | Focus |
-|--------|-------|
-| **On-Device AI** | Running LLMs and multimodal models on edge hardware (Android, embedded) |
-| **Mental Health Tech** | AI companions and therapeutic tools with privacy at the core |
-| **Multimodal Systems** | Voice, vision, and language models working together |
-| **Research Prototypes** | Kaggle experiments, hackathon submissions, open benchmarks |
 
 ## Featured Projects
 
